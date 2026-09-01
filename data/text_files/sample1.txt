@@ -1,0 +1,10 @@
+Machine Leaning Introduction
+    Machine learning is a branch of artificial intelligence that allows computers to learn from data and make predictions without being explicitly programmed for every single task.
+
+    Main Types of Machine Learning:
+
+    Supervised Learning: Trains a model on labeled data, like matching emails to "spam" or "not spam".
+    Unsupervised Learning: Finds hidden structures or groupings in unlabeled data, such as clustering customer segments.
+    Reinforcement Learning: Learns optimal actions through trial and error to maximize a reward signal.
+
+    
