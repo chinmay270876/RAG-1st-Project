@@ -1,10 +1,18 @@
-# Python-generated files
-__pycache__/
-*.py[oc]
-build/
-dist/
-wheels/
-*.egg-info
+# Ignore specific files
+notebook/.env
+.env
+data/vector_store/
 
-# Virtual environments
-.venv
+# Ignore entire directories
+node_modules/
+venv/
+.venv/
+
+# Ignore files by file type/extension
+*.log
+*.sqlite3
+*.ipynb_checkpoints/
+
+# Ignore OS metadata files
+.DS_Store
+Thumbs.db
